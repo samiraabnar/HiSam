@@ -1,0 +1,6 @@
+<?php
+
+class ConversationModel extends AppModel {
+                var $name = 'Conversation';
+}
+?>
